@@ -19,7 +19,7 @@ The user will be able to filter the employees by searching for their name, or ph
 
 
 
-* URL to the deployed application:
+* URL to the deployed application:https://karunasato.github.io/Employee-Directory/
 
 * URL to the Github repository: https://github.com/karunasato/Employee-Directory.git 
 
